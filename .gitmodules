@@ -1,0 +1,12 @@
+[submodule "sharing-firestore"]
+	path = sharing-firestore
+	url = https://github.com/bitkey-oss/sharing-firestore.git
+[submodule "sqlite-data"]
+	path = sqlite-data
+	url = https://github.com/pointfreeco/sqlite-data.git
+[submodule "swift-sharing"]
+	path = swift-sharing
+	url = https://github.com/pointfreeco/swift-sharing.git
+[submodule "swift-sharing-extension-exploration"]
+	path = swift-sharing-extension-exploration
+	url = https://github.com/technoplato/swift-sharing-extension-exploration.git
